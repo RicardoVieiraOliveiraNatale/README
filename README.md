@@ -29,7 +29,7 @@
 ### *Participando atualmente do Santander Bootcamp Cibersegurança* Link para o meu perfil na [DIO](https://www.dio.me/users/ricardonataleti)7
 
 <div align="center">
-    <img alt="Visitor Stats" src="https://widgetbite.com/stats/https://github.com/RicardoVieiraOliveiraNatale"/>
+        <img alt="Visitor Stats"src="https://widgetbite.com/stats/<RicardoVieiraOliveiraNatale>"/>  
     </div>
 
 *Soft skills*
