@@ -26,13 +26,12 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ===============================================
 
-### *Participando atualmente do Santander Bootcamp Cibersegurança* Link para o meu perfil na [DIO](https://www.dio.me/users/ricardonataleti)
-------
-     <div align="center">
-        <img alt="Visitor Stats" 
-            src=https://widgetbite.com/stats/<Ricardo Natale>/>  
+### *Participando atualmente do Santander Bootcamp Cibersegurança* Link para o meu perfil na [DIO](https://www.dio.me/users/ricardonataleti)7
+
+<div align="center">
+    <img alt="Visitor Stats" src="https://widgetbite.com/stats/https://github.com/RicardoVieiraOliveiraNatale"/>
     </div>
-----
+
 *Soft skills*
 - [x]  Comunicação assertiva
 - [x]  Oratória
