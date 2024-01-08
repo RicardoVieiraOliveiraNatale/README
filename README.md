@@ -26,10 +26,18 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ===============================================
 
+<<<<<<< HEAD
 ### *Participando atualmente do Santander Bootcamp Cibersegurança* Link para o meu perfil na [DIO](https://www.dio.me/users/ricardonataleti)7
 
 <div align="center">
     <img alt="Visitor Stats" src="https://widgetbite.com/stats/https://github.com/RicardoVieiraOliveiraNatale"/>
+=======
+### *Participando atualmente do Santander Bootcamp Cibersegurança* Link para o meu perfil na [DIO](https://www.dio.me/users/ricardonataleti)
+------
+     <div align="center">
+        <img alt="Visitor Stats" 
+            src=https://widgetbite.com/stats/<https://github.com/RicardoVieiraOliveiraNatale>/>
+>>>>>>> 0324d66cf435cf8c848948c1b194ef1a3ed060a0
     </div>
 
 *Soft skills*
