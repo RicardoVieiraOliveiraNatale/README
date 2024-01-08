@@ -1,5 +1,5 @@
-## Ricardo Natale
-## Atualmente curso ciência da computação na  [*Descomplica*](https://descomplica.com.br/faculdade/) 
+## Oi, eu me chamo Ricardo Natale
+## Atualmente no 3º semestre ciência da computação na faculdade [*Descomplica*](https://descomplica.com.br/faculdade/) 
 
 ### Meu linkedin:
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardovieiraoliveiranatale/)
@@ -15,7 +15,6 @@
 
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-
 *Ja estudei mas não estou me dedicando no momento* :closed_book:
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -29,9 +28,9 @@
 
 ### *Participando atualmente do Santander Bootcamp Cibersegurança* Link para o meu perfil na [DIO](https://www.dio.me/users/ricardonataleti)
 ------
-    <div align="center">
+     <div align="center">
         <img alt="Visitor Stats" 
-            src="https://widgetbite.com/stats/RicardoVieiraOliveiraNatale"/>  
+            src="https://widgetbite.com/stats/<RicardoVieiraOliveiraNatale>"/>  
     </div>
 ----
 *Soft skills*
@@ -42,7 +41,6 @@
 - [x]  Proatividade
 - [x]  Colaboração
 - [x]  Inglês avançado
-
 
 [PT-BR]
 Deixo aqui meus sinceros agradecimentos ao tim criador do [widgetbite.com]() contador de visitas que estou usando
