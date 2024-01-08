@@ -1,14 +1,13 @@
-
-###### ~~Seguindo a boa e velha tradição:~~ **Hello word**
-
-# Eu me chamo Ricardo Natale
+## Ricardo Natale
 ## Atualmente curso ciência da computação na  [*Descomplica*](https://descomplica.com.br/faculdade/) 
 
+### Meu linkedin:
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardovieiraoliveiranatale/)
 
 *Estudando*
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) [Py4e](https://www.py4e.com)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+[Py4e](https://www.py4e.com)
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
@@ -32,7 +31,7 @@
 ------
     <div align="center">
         <img alt="Visitor Stats" 
-            src="https://widgetbite.com/stats/<RicardoVieiraOliveiraNatale>"/>  
+            src="https://widgetbite.com/stats/RicardoVieiraOliveiraNatale"/>  
     </div>
 ----
 *Soft skills*
