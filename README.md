@@ -26,11 +26,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ===============================================
 
-### *Participando atualmente do Santander Bootcamp Cibersegurança* Link para o meu perfil na [DIO](https://www.dio.me/users/ricardonataleti)7
-
-<div align="center">
-        <img alt="Visitor Stats"src="https://widgetbite.com/stats/<RicardoVieiraOliveiraNatale>"/>  
-    </div>
+### *Participando atualmente do Santander Bootcamp Cibersegurança* Link para o meu perfil na [DIO](https://www.dio.me/users/ricardonataleti)
 
 *Soft skills*
 - [x]  Comunicação assertiva
@@ -40,6 +36,10 @@
 - [x]  Proatividade
 - [x]  Colaboração
 - [x]  Inglês avançado
+
+<div align="center">
+        <img alt="Visitor Stats"src="https://widgetbite.com/stats/<RicardoVieiraOliveiraNatale>"/>  
+    </div>
 
 [PT-BR]
 Deixo aqui meus sinceros agradecimentos ao tim criador do [widgetbite.com]() contador de visitas que estou usando
