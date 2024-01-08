@@ -30,7 +30,7 @@
 ------
      <div align="center">
         <img alt="Visitor Stats" 
-            src=https://widgetbite.com/stats/<RicardoVieiraOliveiraNatale>/>  
+            src=https://widgetbite.com/stats/<Ricardo Natale>/>  
     </div>
 ----
 *Soft skills*
